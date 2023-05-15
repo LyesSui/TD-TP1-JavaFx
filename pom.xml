@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.tdtp1_javafx/com.example.tdtp1_javafx.HelloApplication</mainClass>
+                            <mainClass>com.example.tdtp1_javafx/com.example1.com.example.td1.partie1.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

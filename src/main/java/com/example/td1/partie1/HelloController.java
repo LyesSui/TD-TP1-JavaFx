@@ -1,4 +1,4 @@
-package com.example.tdtp1_javafx;
+package com.example.td1.partie1;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

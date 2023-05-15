@@ -1,4 +1,4 @@
-package com.example.tdtp1_javafx;
+package com.example.td1.partie1;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
